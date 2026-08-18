@@ -1,14 +1,31 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/MDJ4kVSwNySV2/giphy.gif" alt="Gatinho Programando" width="300">
-  
-  # Ágatha Cristina
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=👋+Bem+Vindo+ao+meu+GitHub!;💻+Backend+Developer;📊+Data+Analysis;🎓+Estudante+FATEC;🚀+Sempre+aprendendo)](https://github.com/DenverCoder1/readme-typing-svg)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-cristina-marinho-da-costa-a7b5b1212)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathacris231894@gmail.com)
+  <img src="https://media.giphy.com/media/MDJ4kVSwNySV2/giphy.gif" alt="Programming Cat" width="300">
+
+  # 🧬💻 Ágatha Cristina
+
+  ### Backend Developer • Data Analysis • Bioinformatics
+
+  > *Where science meets technology.*
+
+  <br>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub!;💻+Backend+Developer;📊+Data+Analysis;🧬+Bioinformatics;🎓+FATEC+Student;🚀+Always+Learning)](https://github.com/DenverCoder1/readme-typing-svg)
+
+  <br>
+
+  🐍 **Python** &nbsp;•&nbsp;
+  ☕ **Java** &nbsp;•&nbsp;
+  ⚡ **C** &nbsp;•&nbsp;
+  🌐 **JavaScript** &nbsp;•&nbsp;
+  🗄️ **SQL**
+
+  <br><br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-cristina-marinho-da-costa-a7b5b1212/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathacris231894@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
- 
+
 </div>
 
 ## 🎯 Sobre Mim
@@ -125,19 +142,6 @@ Projeto de IC desenvolvido para processar, analisar e interpretar dados genétic
 Atuar na área de **Tecnologia da Informação** com foco em **desenvolvimento backend** 
 ou **análise de dados**, buscando **evolução contínua** e contribuição em 
 **projetos inovadores** que façam diferença.
- 
----
-
-## 📫 Entre em Contato
- 
-<div align="center">
-**📧 Email:** agathacris231894@gmail.com
- 
-**🔗 LinkedIn:** [@agatha-cristina-marinho-da-costa](https://www.linkedin.com/in/agatha-cristina-marinho-da-costa-a7b5b1212/)
- 
-**💬 Vamos conversar!**
-
-</div>
 
 ---
 
