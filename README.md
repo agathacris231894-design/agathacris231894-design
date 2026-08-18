@@ -144,6 +144,3 @@ ou **análise de dados**, buscando **evolução contínua** e contribuição em
 <div align="center"> 
 **Feito com ❤️ por Ágatha Cristina**
 </div>
-
-
-![Snake animation](https://github.com/agathacris231894-design/agathacris231894-design/blob/output/github-contribution-grid-snake.svg)
