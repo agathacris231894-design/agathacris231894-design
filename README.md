@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/MDJ4kVSwNySV2/giphy.gif" alt="Gatinho Programando" width="300">
   
   # Ágatha Cristina
-  
-  ### 💻 Backend Developer | 📊 Data Analysis | 🎓 FATEC Student
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=👋+Bem+Vindo+ao+meu+GitHub!;💻+Backend+Developer;📊+Data+Analysis;🎓+Estudante+FATEC;🚀+Sempre+aprendendo)](https://github.com/DenverCoder1/readme-typing-svg)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-cristina-marinho-da-costa-a7b5b1212)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathacris231894@gmail.com)
@@ -145,6 +145,5 @@ ou **análise de dados**, buscando **evolução contínua** e contribuição em
 **Feito com ❤️ por Ágatha Cristina**
 </div>
 
-<div align="center"> 
-⭐ *Este repositório representa meu currículo profissional e será constantemente atualizado.* ⭐
-</div>
+
+![Snake animation](https://github.com/agathacris231894-design/agathacris231894-design/blob/output/github-contribution-grid-snake.svg)
