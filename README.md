@@ -20,7 +20,7 @@ resolver problemas complexos. Busco oportunidades para crescer profissionalmente
 contribuir com soluções eficientes na área de TI.
 ```
  
-📍 **Localização:** Sorocaba, SP - Brasil  
+📍 **Localização:** SP - Brasil  
 
 🎓 **Formação:** 
 
