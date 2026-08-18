@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/MDJ4kVSwNySV2/giphy.gif" alt="Gatinho Programando" width="300">
   
-  # 👋 Olá! Sou Ágatha Cristina
+  # Ágatha Cristina
   
   ### 💻 Backend Developer | 📊 Data Analysis | 🎓 FATEC Student
   
@@ -10,8 +10,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
  
 </div>
----
- 
+
 ## 🎯 Sobre Mim
  
 ```
@@ -22,8 +21,13 @@ contribuir com soluções eficientes na área de TI.
 ```
  
 📍 **Localização:** Sorocaba, SP - Brasil  
-🎓 **Formação:** Análise e Desenvolvimento de Sistemas (FATEC) - Conclusão: 2028
-                  Ciências Biológicas (UFSCar) - Concluído: 2024
+
+🎓 **Formação:** 
+
+⭐ Análise e Desenvolvimento de Sistemas (FATEC) - Conclusão: 2028 
+
+⭐ Ciências Biológicas (UFSCar) - Concluído: 2024
+
 💼 **Foco:** Backend Development | Data Analysis | Bioinformática
  
 ---
@@ -118,12 +122,12 @@ Projeto de IC desenvolvido para processar, analisar e interpretar dados genétic
  
 ## 🎯 Objetivo Profissional
  
-> Atuar na área de **Tecnologia da Informação** com foco em **desenvolvimento backend** 
-> ou **análise de dados**, buscando **evolução contínua** e contribuição em 
-> **projetos inovadores** que façam diferença.
+Atuar na área de **Tecnologia da Informação** com foco em **desenvolvimento backend** 
+ou **análise de dados**, buscando **evolução contínua** e contribuição em 
+**projetos inovadores** que façam diferença.
  
 ---
- 
+
 ## 📫 Entre em Contato
  
 <div align="center">
@@ -132,15 +136,15 @@ Projeto de IC desenvolvido para processar, analisar e interpretar dados genétic
 **🔗 LinkedIn:** [@agatha-cristina-marinho-da-costa](https://www.linkedin.com/in/agatha-cristina-marinho-da-costa-a7b5b1212/)
  
 **💬 Vamos conversar!**
- 
-</div>
----
- 
-<div align="center">
-### ⭐ Se você gostou do meu perfil, não esqueça de deixar uma estrela! ⭐
- 
-**Feito com ❤️ por Ágatha Cristina**
- 
+
 </div>
 
-⭐ *Este repositório representa meu currículo profissional e será constantemente atualizado.*
+---
+
+<div align="center"> 
+**Feito com ❤️ por Ágatha Cristina**
+</div>
+
+<div align="center"> 
+⭐ *Este repositório representa meu currículo profissional e será constantemente atualizado.* ⭐
+</div>
