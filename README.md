@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/MDJ4kVSwNySV2/giphy.gif" alt="Programming Cat" width="300">
-
   # 🧬💻 Ágatha Cristina
 
   ### Backend Developer • Data Analysis • Bioinformatics
