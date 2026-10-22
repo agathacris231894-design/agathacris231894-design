@@ -4,7 +4,7 @@
 
   ### Backend Developer • Data Analysis • Bioinformatics
 
-  > *Where science meets technology.*
+  *Where science meets technology.*
 
   <br>
 
@@ -140,6 +140,27 @@ Projeto de IC desenvolvido para processar, analisar e interpretar dados genétic
 Atuar na área de **Tecnologia da Informação** com foco em **desenvolvimento backend** 
 ou **análise de dados**, buscando **evolução contínua** e contribuição em 
 **projetos inovadores** que façam diferença.
+
+---
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/agathacris231894-design/agathacris231894-design/gh-pages/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/agathacris231894-design/agathacris231894-design/gh-pages/github-contribution-grid-snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/agathacris231894-design/agathacris231894-design/gh-pages/github-contribution-grid-snake.svg"
+    alt="Animação da cobrinha das contribuições do GitHub"
+  >
+</picture>
+
+</div>
 
 ---
 
